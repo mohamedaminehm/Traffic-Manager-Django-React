@@ -1,0 +1,15 @@
+.container1 {
+    margin: 10px 10px  ;
+    position: relative;
+    border-bottom: 5px solid ;
+    
+}
+
+.table {
+    border: 3px solid;
+}
+
+.cardform {
+    border: 2px solid rgba(76, 164, 219, 0.5);
+    background-color: whitesmoke;
+}

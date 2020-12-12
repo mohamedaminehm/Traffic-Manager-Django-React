@@ -1,0 +1,27 @@
+
+
+
+
+.login-container{
+    
+    background-image: url(/static/back.jpg) ;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin-left: 400px;
+    margin-top: 50px;
+  }
+
+.form-group {
+  position: relative;
+ 
+}
+
+
+@media (max-width : 950px) {
+  .login-container {
+      margin : 4% 0 !important ;
+  }
+
+  
+}

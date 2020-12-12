@@ -1,0 +1,35 @@
+.container {
+    margin:10px 10px;
+
+}
+
+.card {
+    margin: 4% 2% !important;
+    height: 400px !important;
+}
+
+.voie1 {
+    border-bottom : 10px solid rgba(0, 0, 0, 0.5);
+    border-top: 10px solid rgba(0, 0, 0, 0.5);
+}
+.voie2 {
+    border-bottom : 10px solid rgba(0, 0, 0, 0.5);
+    border-top: 10px solid rgba(0, 0, 0, 0.5);
+}
+
+.graph {
+    height: 100%;
+}
+
+
+
+@media (max-width : 950px) {
+    .card {
+        margin : 4% 0 !important ;
+    }
+    .graph {
+        width: max-content ;
+    }
+
+    
+}

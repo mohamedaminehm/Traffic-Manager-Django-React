@@ -1,0 +1,30 @@
+
+.container {
+    margin:10px 10px;
+
+}
+
+.carddd {
+    margin: 0 2% !important;
+}
+
+.confirmed {
+    border-bottom : 10px solid rgb(0,0,255,0.5);
+    
+}
+
+.recovered {
+    border-bottom : 10px solid rgb(0,255,0,0.5);
+}
+
+.deaths {
+    border-bottom : 10px solid rgb(255,0,0,0.5);
+}
+
+@media (max-width : 950px) {
+    .carddd {
+        margin : 4% 0 !important ;
+    }
+
+    
+}

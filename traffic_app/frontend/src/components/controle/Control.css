@@ -1,0 +1,8 @@
+
+
+.cardControl {
+    width: 100%;
+    border-left: 10px solid rgb(0, 255, 0, 0.5);
+    border-right: 10px solid rgba(255, 0, 0, 0.5) ;
+    margin-top: 40px;
+} 
